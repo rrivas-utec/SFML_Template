@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.8)
 
 # Please try it to match with actual project name
-set(CMAKE_PROJECT_NAME "UTEC_CSS1100_Project")
+set(CMAKE_PROJECT_NAME "UTEC_CS1100_Project")
 project(${CMAKE_PROJECT_NAME})
 
 set(CMAKE_CXX_STANDARD 14)
